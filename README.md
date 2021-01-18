@@ -1,2 +1,2 @@
 # News-App
-A news app builder over futter technology
+A news app build over futter technology
